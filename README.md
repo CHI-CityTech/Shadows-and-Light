@@ -1,12 +1,21 @@
-# CHI Student Research Template
+# Shadows and Light
 
-Describe the research project here:
-This **Emerging Scholars** project is part of the **Center for Holistic Integration (CHI)** ecosystem, associated with the Blended Shadow Puppet meta-project. It investigates how the ambiguity of foreground and background-a central theme in perception, culture, and symbolic systems-can be transformed into basic play mechanics for interactive design. Inspirations for the project include:
+## Overview
+
+This **Emerging Scholars** project is part of the **Center for Holistic Integration (CHI)** ecosystem, associated with the Blended Shadow Puppet meta-project. It investigates how the ambiguity of foreground and background-a central theme in perception, culture, and symbolic systems-can be transformed into basic play mechanics for interactive design. The project draws from:
 - **Wayang Kulit** and other shadow/light cultural practices
 - **M.C. Esher** and **Gestalt** figure/ground illusions
 - Precedent games like **Shift** that invert black/white relationships
 
 The participant(s) of this project will come up with at least two distinct mechanics that embody reversibility and ambiguity, then evaluate them for cultural and narrative resonance within CHI's Blended Shadow Puppet (BSP) fictive world. The focus is not on building a full digital game, but on centralizing and prototyping mechanics and virtual assets (via sketches, rulesets, paper models, etc.).
+
+## Objectives
+
+1. Conduct precedent research in cultural performance, perception, and interactive media.
+2. Brainstorm and document candidate play mechanics
+3. Produce sketches, flowcharts, and paper prototypes
+4. Map each mechanic into the BBS framework, showing how agents, signals, and the spaces interact
+5. Prepare final poster and abstract situating their work within CHI's broader meta-projects
 
 
 [![GitHub Template](https://img.shields.io/badge/GitHub-Template-green)](https://github.com/CHI-CityTech/CHI-Research-Template)
