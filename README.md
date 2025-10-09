@@ -7,6 +7,9 @@ Describe the research project here:
 [![GitHub Template](https://img.shields.io/badge/GitHub-Template-green)](https://github.com/CHI-CityTech/CHI-Research-Template)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+CRRENT TASKS 
+[Research Phase 1](https://github.com/CHI-CityTech/Shadows-and-Light/blob/main/docs/research-notes/Research%20Phase%201.md)  
+
 ## What This Template Provides
 
 ### CHI Research Methodology Framework
