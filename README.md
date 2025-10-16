@@ -49,14 +49,9 @@ CURRENT TASKS
 This template supports research within CHI's active meta-projects:
 
 1. **Balanced Blended Space (BBS)** - Framework for human-AI collaboration
-2. **Built Environment (BE)** - Architecture, engineering, climate integration
 3. **Blended Shadow Puppet (BSP)** - Performative and narrative research
-4. **Collaborative AI** - AI as research partner methodology
-5. **Holistic STEM Education** - Contemplative creativity in inquiry
-6. **International Collaboration** - Austria-City Tech partnership
-7. **Cultural Popup Dining Experience** - Interdisciplinary storytelling
 8. **Combinative Reality** - Physical/digital learning environments
-9. **UNESCO World-Building** - Heritage transformation research
+
 
 *Full descriptions available in [`references/meta-projects.md`](references/meta-projects.md)*
 
