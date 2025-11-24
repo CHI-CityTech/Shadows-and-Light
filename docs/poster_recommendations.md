@@ -1,4 +1,8 @@
-# Recommendations for Improving the Academic Poster
+# Recommendations for Improving the Academic Poster Shadows and Light"
+
+Dr David B. Smith and ChatGPT 5.1  
+Collaborative feedback based on an iterative discussion   
+2025-11-24  
 
 ## TL;DR — Top 8 Changes to Strengthen the Poster
 - Add a **clear Research Question** near the top of the poster.
